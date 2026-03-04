@@ -1,6 +1,6 @@
 # Todo App
 
-A simple terminal todo app in Python.
+A simple terminal to-do list app in Python.
 
 ## How to run
 
